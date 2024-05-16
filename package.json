@@ -1,0 +1,16 @@
+{
+  "name": "computer-abstraction",
+  "version": "1.0.0",
+  "description": "Este é um projeto apenas para colocar em pratica alguns conhecimentos sobre computadores, processadores e memoria",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
