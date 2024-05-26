@@ -1,4 +1,4 @@
-import { Binary } from "./binaries";
+import { Binary } from "./binary";
 
 export class LogicGates {
   static NOT(a: Binary): Binary {

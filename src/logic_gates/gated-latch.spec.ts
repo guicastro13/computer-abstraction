@@ -1,4 +1,4 @@
-import { Binary } from "./binaries";
+import { Binary } from "./binary";
 import { GatedLatch } from "./gated-latch";
 
 describe("GatedLatch", () => {

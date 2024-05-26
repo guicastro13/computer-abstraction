@@ -1,4 +1,4 @@
-import { Binary } from "./binaries";
+import { Binary } from "./binary";
 import { LogicGates } from "./logical-gates";
 
 export class GatedLatch {
