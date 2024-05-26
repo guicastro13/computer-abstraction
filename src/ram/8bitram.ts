@@ -15,7 +15,6 @@ export class RAM8Bit {
     return parseInt(BinaryHelper.toString(binary), 2);
   }
 
-  // Método para escrever ou ler dados na RAM em um endereço específico
   access(data: Binary, address: Binary[], writeEnable: Binary): Binary {
     if (address.length !== 8) {
       throw new Error("Address must be 8 bits long");
